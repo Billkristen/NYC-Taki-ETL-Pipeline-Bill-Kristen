@@ -3,7 +3,7 @@
 ## Overview
 This real-world ETL project ingests and processes public NYC Yellow Taxi trip data. Designed for production-style data engineering, it reflects the toolset and skills listed on my resume.
 
-## Tech Stack (Matching Resume)
+## Tech Stack
 - **Python & SQL** – Core ETL processing
 - **Apache Spark** – (optional for scalable transformation)
 - **Apache Airflow** – (pluggable for orchestration and DAG scheduling)
